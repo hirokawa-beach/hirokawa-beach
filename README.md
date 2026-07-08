@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 紀中・紀北が大好きな京阪神アーバンネットワーク内在住の高校生。
 複数界隈に首を突っ込んでいる人です。よろしくお願いします。
-I`m a Japanese High School Student! 
+I'm a Japanese High School Student! 
 
 * 🌍  I'm based in (京阪神)アーバンネットワーク + きのくに線
 * 🚀  I'm currently working on [OkiMAP(Wplace沖ノ鳥島アーカイブ)](http://okimap.wplaceoki.com/)
